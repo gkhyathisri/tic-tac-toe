@@ -1,0 +1,27 @@
+# Tic-Tac-Toe with AI (Minimax Algorithm)
+
+A simple Python-based Tic-Tac-Toe game where you can play against an unbeatable AI using the Minimax algorithm. Built as a beginner project to understand recursion, game theory, and AI logic.
+
+---
+
+##  How the AI Works
+
+The computer uses the **Minimax algorithm**, a recursive backtracking technique commonly used in turn-based games. It explores all possible game states and chooses the move that minimizes the human player's chance of winning.
+
+---
+
+##  Features
+
+-  Command-line game
+-  Play against unbeatable AI
+-  Clear board and move prompts
+-  Input validation for user
+-  Easy to expand with GUI (Tkinter)
+
+---
+
+##  How to Play
+
+1. Run the script:
+   ```bash
+   python tic_tac_toe.py
